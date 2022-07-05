@@ -1,5 +1,4 @@
 # HandTrackingProject
----
 This is a Hand tracking Project which showcases the difference between **detection** and **tracking**.
 Image Processing is the fundamental key to process your images before you apply any **mlops**.
 This project has really has helped me understand the use of **opencv-python** and **mediapipe**.
